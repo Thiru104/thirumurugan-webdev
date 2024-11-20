@@ -1492,8 +1492,8 @@ header .logo a {
  */
 #about {
 	background: #FFFFFF;
-	padding-top: 12rem;
-	padding-bottom: 15rem;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
 }
 #about .section-intro {
 	margin-bottom: 3rem;
@@ -1604,8 +1604,9 @@ header .logo a {
 		margin-top: 3rem;
 	}
 	.intro-info img {
-		height: 6.6rem;
-		width: 6.6rem;
+		height: 10rem;
+		width: 10rem;
+		margin:  0;
 		float: none;
 		display: inline-block;
 	}
@@ -1622,8 +1623,8 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #resume {
-	padding-top: 12rem;
-	padding-bottom: 12rem;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
 }
 
 #resume .resume-header {
@@ -1792,8 +1793,8 @@ header .logo a {
  */
 #portfolio {
 	background: #FFFFFF;
-	padding-top: 12rem;
-	padding-bottom: 12rem;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
 }
 #portfolio .folio-item {
 	padding: 20px;
@@ -2252,8 +2253,8 @@ header .logo a {
  */
 #contact {
 	background: #151515;
-	padding-top: 12rem;
-	padding-bottom: 7.2rem;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
 }
 #contact .section-intro h1 {
 	color: white;
